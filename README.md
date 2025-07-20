@@ -48,8 +48,8 @@
 
   <h2>Google Colab</h2>
   <p>To try this tool easily without local setup, use this Google Colab notebook:</p>
-  <a href="https://colab.research.google.com/drive/YOUR_COLAB_NOTEBOOK_ID" target="_blank" rel="noopener" class="button">Open in Google Colab</a>
-  <p><small>Replace <code>YOUR_COLAB_NOTEBOOK_ID</code> with your actual Colab notebook URL or ID.</small></p>
+  <a href="https://colab.research.google.com/drive/1DSOKZtxclVBGr-gDqRDV-byXm1vcrpw4?usp=sharing" target="_blank" rel="noopener" class="button">Open in Google Colab</a>
+
 
   <h2>License</h2>
   <p>This project is open-source and available under the <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">MIT License</a>.</p>
