@@ -3,46 +3,6 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>YouTube Video Voice Replacer</title>
-  <style>
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-        Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-      max-width: 900px;
-      margin: 2rem auto;
-      padding: 0 1rem;
-      line-height: 1.6;
-      color: #24292e;
-    }
-    h1, h2 {
-      color: #0366d6;
-    }
-    code {
-      background-color: #f6f8fa;
-      padding: 0.2em 0.4em;
-      border-radius: 3px;
-      font-family: monospace;
-    }
-    pre {
-      background-color: #f6f8fa;
-      padding: 1em;
-      overflow-x: auto;
-      border-radius: 6px;
-    }
-    a.button {
-      background-color: #28a745;
-      color: white;
-      padding: 0.6em 1.2em;
-      text-decoration: none;
-      border-radius: 5px;
-      font-weight: 600;
-      display: inline-block;
-      margin-top: 1em;
-    }
-    a.button:hover {
-      background-color: #218838;
-    }
-  </style>
 </head>
 <body>
   <h1>YouTube Video Voice Replacer</h1>
